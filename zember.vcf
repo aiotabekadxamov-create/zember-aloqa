@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;ZEMBER;;;
+FN:ZEMBER
+ORG:ZEMBER kotyollari
+TEL;TYPE=WORK,VOICE:+998558044444
+TEL;TYPE=CELL,VOICE:+998773060070
+URL:https://www.zember.uz
+item1.URL:https://t.me/zember_service_bot
+item1.X-ABLabel:Servis bot
+item2.URL:https://t.me/zember_group
+item2.X-ABLabel:Telegram guruh
+item3.URL:https://instagram.com/zember_uz
+item3.X-ABLabel:Instagram
+NOTE:Call-markaz +998 55 804 44 44 / Servis +998 77 306 00 70
+END:VCARD
